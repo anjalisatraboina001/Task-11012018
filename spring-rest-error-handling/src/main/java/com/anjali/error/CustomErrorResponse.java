@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.anjali.error;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
